@@ -15,7 +15,7 @@
         </div>
         <div class="logo">BiblioTeca</div>
         <div class="nav-items">
-            <li><a href="#">Home</a></li>
+            <li><a href="homepage.php">Home</a></li>
             <li><a href="#">Novels</a></li>
             <li><a href="#">Textbooks</a></li>
             <li><a href="#">Journals</a></li>
